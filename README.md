@@ -4,6 +4,15 @@ The **Medical Diagnosis System** is a machine learning-based application designe
 
 ---
 
+# Author
+-  Mahmoud Najmeh
+
+
+<img src="https://avatars.githubusercontent.com/u/78208459?u=c3f9c7d6b49fc9726c5ea8bce260656bcb9654b3&v=4" width="200px" style="border-radius: 50%;">
+
+---
+
+
 ## Features
 
 - **Symptom Input**: Users can describe their symptoms in natural language (e.g., "I have a fever and a cough").
@@ -29,7 +38,7 @@ Before running the app, ensure you have the following installed:
 1. **Download the App**:
    - Clone the repository:
      ```bash
-     git clone https://github.com/your-username/MedicalDiagnosisSystem.git
+     git clone https://github.com/MN10101/MedicalDiagnosisSystem
      ```
    - Alternatively, download the repository as a ZIP file and extract it.
 
